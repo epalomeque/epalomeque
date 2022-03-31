@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">👋 Hi there! I'm Emmanuel</h3>
 <p align="center">
   <!-- a href="https://www.giftegwuenu.dev">Website</a --> •
