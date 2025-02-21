@@ -12,11 +12,11 @@ Love to learn something every day...
 - 🌱 I’m currently trying to learn GoLang 
 - 📫 How to reach me: epalomeque@gmail.com
 - 💬 Ask me about Web development, or automation using Linux Systems 
- 
+- 👯 I’m looking to collaborate on AI Projects 
 
 <!--
 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 
 - 📫 How to reach me: ...
