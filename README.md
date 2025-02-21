@@ -8,7 +8,7 @@ I am a Software developer mainly using Python(Django, Flask or FastAPI)/React/Po
 
 Love to learn something every day... 
 
-- 🔭 I’m currently working on personal project about "Tandas"
+<!-- - 🔭 I’m currently working on personal project about "Tandas"  --> 
 - 🌱 I’m currently trying to learn GoLang 
 - 📫 How to reach me: epalomeque@gmail.com
 - 💬 Ask me about Web development, or automation using Linux Systems 
